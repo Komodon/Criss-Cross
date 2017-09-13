@@ -1,0 +1,33 @@
+F:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\bin\Debug\2017.05.12 Tris.exe
+F:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\bin\Debug\2017.05.12 Tris.pdb
+F:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.csprojResolveAssemblyReference.cache
+F:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\_2017._05._12_Tris.Form1.resources
+F:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\_2017._05._12_Tris.Properties.Resources.resources
+F:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.csproj.GenerateResource.Cache
+F:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.exe
+F:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.pdb
+\\Repo\Studenti$\Informatica\SezCi\3Ci\Matteo.Zampiccoli\Desktop\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.exe
+\\Repo\Studenti$\Informatica\SezCi\3Ci\Matteo.Zampiccoli\Desktop\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.pdb
+\\Repo\Studenti$\Informatica\SezCi\3Ci\Matteo.Zampiccoli\Desktop\2017.05.12 Tris\2017.05.12 Tris\bin\Debug\2017.05.12 Tris.exe
+\\Repo\Studenti$\Informatica\SezCi\3Ci\Matteo.Zampiccoli\Desktop\2017.05.12 Tris\2017.05.12 Tris\bin\Debug\2017.05.12 Tris.pdb
+\\Repo\Studenti$\Informatica\SezCi\3Ci\Matteo.Zampiccoli\Desktop\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezCi\3Ci\Matteo.Zampiccoli\Desktop\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\_2017._05._12_Tris.Form1.resources
+\\Repo\Studenti$\Informatica\SezCi\3Ci\Matteo.Zampiccoli\Desktop\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\_2017._05._12_Tris.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezCi\3Ci\Matteo.Zampiccoli\Desktop\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.csproj.GenerateResource.Cache
+E:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.exe
+E:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.pdb
+E:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\bin\Debug\2017.05.12 Tris.exe
+E:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\bin\Debug\2017.05.12 Tris.pdb
+E:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.csprojResolveAssemblyReference.cache
+E:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\_2017._05._12_Tris.Form1.resources
+E:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\_2017._05._12_Tris.Properties.Resources.resources
+E:\Scuola\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.csproj.GenerateResource.Cache
+E:\3CI\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\bin\Debug\2017.05.12 Tris.exe
+E:\3CI\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\bin\Debug\2017.05.12 Tris.pdb
+E:\3CI\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.csprojResolveAssemblyReference.cache
+E:\3CI\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\_2017._05._12_Tris.Form1.resources
+E:\3CI\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\_2017._05._12_Tris.Properties.Resources.resources
+E:\3CI\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.csproj.GenerateResource.Cache
+E:\3CI\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.csproj.CoreCompileInputs.cache
+E:\3CI\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.exe
+E:\3CI\Informatica\C#\2017.05.12 Tris\2017.05.12 Tris\obj\Debug\2017.05.12 Tris.pdb
